@@ -1,0 +1,3 @@
+# LoginActivity
+
+### Android Studio Template
